@@ -1,0 +1,1 @@
+word_list = ["python", "hangman", "javascript", "programming", "computer", "algorithm", "function", "variable", "database", "developer", "software", "internet", "keyboard", "monitor", "network", "system", "process", "memory", "storage", "application"]
